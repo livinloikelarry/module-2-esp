@@ -1,0 +1,93 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #02055a;
+  color: #2c4047;
+  width: auto;
+  margin: 0;
+  padding: 60px;
+}
+#content-of-page {
+  background-color: #02055a;
+}
+.maindiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.title-search {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.gif-area {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 50px;
+}
+.eachGif {
+  padding: 5px;
+  width: 15%;
+}
+.individual-gif0 {
+  padding: 5px;
+  width: 20%;
+}
+.individual-gif1 {
+  padding: 5px;
+  width: 25%;
+}
+.individual-gif2 {
+  padding: 5px;
+  width: 30%;
+}
+.individual-gif3 {
+  padding: 5px;
+  width: 35%;
+}
+.individual-gif4 {
+  padding: 5px;
+  width: 40%;
+}
+.individual-gif5 {
+  padding: 5px;
+  width: 45%;
+}
+
+.load {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+/* boxes */
+#square-area {
+  display: flex;
+  flex-wrap: wrap;
+}
+.square-term {
+  width: 60px;
+  height: 60px;
+  /* background-color: blueviolet; */
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.highlighted {
+  outline: 5px solid yellow;
+}
+.color1 {
+  background-color: lightblue;
+}
+.color2 {
+  background-color: lightseagreen;
+}
+.color3 {
+  background-color: lightgreen;
+}
+.color4 {
+  background-color: lightcoral;
+}
+.color5 {
+  background-color: lightsalmon;
+}
