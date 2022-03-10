@@ -12,13 +12,26 @@ Create an interactive device with the provided hardware. From a hardware perspec
 - a potentiometer
 
 ## demo 
-![encapsulation of the project](http://url/to/img.png)
-![the website](http://url/to/img.png)
- 
+![the website](./e1.png)
+before starting click the start button. you will be asked to indicate which port to open. 
+
+![the website](./e2.png)
+using the joystick move to a square
+
+
+![the website](./e3.png)
+tadaaa gifs!  
+
+![the website](./e4.png)
+bigger gifs!   
+
+![the website](./e5.png)
+biiiig gifs
+
 
 ## encpsulation 
+![the back of the project looks like](./e6.png) <br/>
 I used a foam posterboard and an x-acto knife to cut the shapes and size that I wanted. The thickness of the posterboard meant that the majority of the hardware was inside of the board and only a small portion of it was exposed on the back. I carved out a space for the esp32 to fit into and I cut a path for the usbc to be connected to the esp32. It would have been great to add a 2 inch border around the back and cover the hardware but I didn't get to it. 
-![the back of the project looks like](http://url/to/img.png)
 
 ## hardware 
 I used a mix of soldering wires directly onto the hardware and female to female wires. 
